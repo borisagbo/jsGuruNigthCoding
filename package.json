@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/jest": "^23.3.12",
+    "jest": "^23.6.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
